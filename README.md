@@ -1,7 +1,7 @@
 # AndroidTinderSwipe
 The project demonstrates the swipe similar to tinder app.
 
-<iframe width="420" height="315" src="https://www.youtube.com/embed/xUQSAYGzj1Q" frameborder="0" allowfullscreen></iframe>
+[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/xUQSAYGzj1Q/0.jpg)](http://www.youtube.com/watch?v=xUQSAYGzj1Q)
 
 
 For implementation part view the Activity.
